@@ -43,4 +43,4 @@ python hud_final.py
 
 📄 Academic Research
 
-For a detailed engineering analysis of this project, including the trade-offs between Edge AI and Cloud Computing, hardware constraint benchmarks, and the historical context of flight stabilization, please refer to reserch included in this repository.
+For a detailed engineering analysis of this project, including the trade-offs between Edge AI and Cloud Computing, hardware constraint benchmarks, and the historical context of flight stabilization, please refer to Architecting Hybrid Edge ESP32 S3 final included in this repository.
