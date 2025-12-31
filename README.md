@@ -13,6 +13,10 @@ Core 1: Sensor Fusion (IMU/GPS) & High-speed Serial Comm.
 Tactical Ground Control: A Python-based HUD inspired by F-35 avionics. Features 4K rendering, multi-threaded data ingestion, and real-time **Night Vision Terrain Mapping**.
 Adaptive Telemetry: Custom JSON protocol with dynamic precision to maintain 50Hz update rates over UART.
 
+
+https://github.com/user-attachments/assets/3b2e56ae-0712-4612-a53d-886620efeede
+
+
 🛠 Tech Stack
 
 Hardware
