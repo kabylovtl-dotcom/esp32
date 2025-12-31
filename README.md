@@ -39,6 +39,10 @@ Ground Station: Python 3.10 / Pygame / Serial / Requests (GIS)
 pip install pygame pyserial requests pillow numpy
 python hud_final.py
 
+https://github.com/user-attachments/assets/ce252cc4-f154-4c0a-86e2-84d0ff406740
+
+
+
 ```
 
 
