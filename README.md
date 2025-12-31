@@ -30,7 +30,7 @@ Software
 Firmware C++ / PlatformIO / FreeRTOS
 AI: TensorFlow Lite for Microcontrollers (Quantized)
 Ground Station: Python 3.10 / Pygame / Serial / Requests (GIS)
-
+в
 🚀 How to Run
 
 1. Firmware: Flash the `src/` code to an ESP32-S3 using PlatformIO.
